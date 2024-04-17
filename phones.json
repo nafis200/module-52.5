@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999,
+      "description": "A powerful laptop for all your computing needs.",
+      "image": "laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Headphones",
+      "price": 49.99,
+      "description": "High-quality headphones with noise-canceling features.",
+      "image": "headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "price": 799,
+      "description": "The latest smartphone with advanced camera technology.",
+      "image": "smartphone.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Watch",
+      "price": 199.99,
+      "description": "A stylish watch that combines elegance with functionality.",
+      "image": "watch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Speaker",
+      "price": 129.95,
+      "description": "Premium wireless speaker for immersive sound experience.",
+      "image": "speaker.jpg"
+    }
+  ]
+  
